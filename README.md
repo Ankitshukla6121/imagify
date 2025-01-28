@@ -38,7 +38,7 @@ Imagify is a web application that allows users to convert text descriptions into
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/imagify.git
+   git clone https://github.com/Ankitshukla6121/imagify.git
    cd imagify
    ```
 
@@ -123,8 +123,7 @@ Imagify/
 
 ---
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
@@ -132,4 +131,9 @@ This project is licensed under the MIT License.
 - OpenAI DALL-E for text-to-image API.
 - Razorpay for payment integration.
 - The developer community for their valuable resources.
+## Contact
 
+For any queries or feedback, reach out to:
+- **Name**: Ankit Shukla
+- **Email**: ankitshukla4510@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ankit-shukla-979303252/
